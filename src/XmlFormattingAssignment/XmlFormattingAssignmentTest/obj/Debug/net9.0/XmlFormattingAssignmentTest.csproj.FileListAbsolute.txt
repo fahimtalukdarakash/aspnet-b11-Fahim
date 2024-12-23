@@ -1,0 +1,214 @@
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\.msCoverageSourceRootsMapping_XmlFormattingAssignmentTest
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\CoverletSourceRootsMapping_XmlFormattingAssignmentTest
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\testhost.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\XmlFormattingAssignment.deps.json
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\XmlFormattingAssignment.runtimeconfig.json
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\XmlFormattingAssignment.exe
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\testhost.exe
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\NUnit3.TestAdapter.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\NUnit3.TestAdapter.pdb
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\nunit.engine.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\nunit.engine.api.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\nunit.engine.core.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\testcentric.engine.metadata.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\XmlFormattingAssignmentTest.deps.json
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\XmlFormattingAssignmentTest.runtimeconfig.json
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\XmlFormattingAssignmentTest.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\XmlFormattingAssignmentTest.pdb
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\nunit.framework.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\nunit.framework.legacy.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\XmlFormattingAssignment.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\XmlFormattingAssignment.pdb
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\XmlFormattingAssignmentTest.csproj.AssemblyReference.cache
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\XmlFormattingAssignmentTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\XmlFormattingAssignmentTest.AssemblyInfoInputs.cache
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\XmlFormattingAssignmentTest.AssemblyInfo.cs
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\XmlFormattingAssignmentTest.csproj.CoreCompileInputs.cache
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\XmlFormattingAssignmentTest.sourcelink.json
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\XmlForma.C6C5C892.Up2Date
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\XmlFormattingAssignmentTest.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\refint\XmlFormattingAssignmentTest.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\XmlFormattingAssignmentTest.pdb
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\XmlFormattingAssignmentTest.genruntimeconfig.cache
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\ref\XmlFormattingAssignmentTest.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\.msCoverageSourceRootsMapping_XmlFormattingAssignmentTest
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\CoverletSourceRootsMapping_XmlFormattingAssignmentTest
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\testhost.exe
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\testhost.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\NUnit3.TestAdapter.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\NUnit3.TestAdapter.pdb
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\nunit.engine.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\nunit.engine.api.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\nunit.engine.core.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\testcentric.engine.metadata.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\XmlFormattingAssignment.deps.json
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\XmlFormattingAssignment.runtimeconfig.json
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\XmlFormattingAssignment.exe
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\XmlFormattingAssignmentTest.deps.json
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\XmlFormattingAssignmentTest.runtimeconfig.json
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\XmlFormattingAssignmentTest.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\XmlFormattingAssignmentTest.pdb
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\nunit.framework.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\nunit.framework.legacy.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\XmlFormattingAssignment.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\bin\Debug\net9.0\XmlFormattingAssignment.pdb
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\XmlFormattingAssignmentTest.csproj.AssemblyReference.cache
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\XmlFormattingAssignmentTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\XmlFormattingAssignmentTest.AssemblyInfoInputs.cache
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\XmlFormattingAssignmentTest.AssemblyInfo.cs
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\XmlFormattingAssignmentTest.csproj.CoreCompileInputs.cache
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\XmlFormattingAssignmentTest.sourcelink.json
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\XmlForma.C6C5C892.Up2Date
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\XmlFormattingAssignmentTest.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\refint\XmlFormattingAssignmentTest.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\XmlFormattingAssignmentTest.pdb
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\XmlFormattingAssignmentTest.genruntimeconfig.cache
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignmentTest\obj\Debug\net9.0\ref\XmlFormattingAssignmentTest.dll

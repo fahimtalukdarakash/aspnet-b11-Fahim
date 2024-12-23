@@ -1,0 +1,30 @@
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignment\bin\Debug\net9.0\XmlFormattingAssignment.exe
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignment\bin\Debug\net9.0\XmlFormattingAssignment.deps.json
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignment\bin\Debug\net9.0\XmlFormattingAssignment.runtimeconfig.json
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignment\bin\Debug\net9.0\XmlFormattingAssignment.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignment\bin\Debug\net9.0\XmlFormattingAssignment.pdb
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignment\obj\Debug\net9.0\XmlFormattingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignment\obj\Debug\net9.0\XmlFormattingAssignment.AssemblyInfoInputs.cache
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignment\obj\Debug\net9.0\XmlFormattingAssignment.AssemblyInfo.cs
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignment\obj\Debug\net9.0\XmlFormattingAssignment.csproj.CoreCompileInputs.cache
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignment\obj\Debug\net9.0\XmlFormattingAssignment.sourcelink.json
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignment\obj\Debug\net9.0\XmlFormattingAssignment.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignment\obj\Debug\net9.0\refint\XmlFormattingAssignment.dll
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignment\obj\Debug\net9.0\XmlFormattingAssignment.pdb
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignment\obj\Debug\net9.0\XmlFormattingAssignment.genruntimeconfig.cache
+D:\C# asp  dot net course\aspnet-b11\src\XmlFormattingAssignment\XmlFormattingAssignment\obj\Debug\net9.0\ref\XmlFormattingAssignment.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignment\bin\Debug\net9.0\XmlFormattingAssignment.exe
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignment\bin\Debug\net9.0\XmlFormattingAssignment.deps.json
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignment\bin\Debug\net9.0\XmlFormattingAssignment.runtimeconfig.json
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignment\bin\Debug\net9.0\XmlFormattingAssignment.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignment\bin\Debug\net9.0\XmlFormattingAssignment.pdb
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignment\obj\Debug\net9.0\XmlFormattingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignment\obj\Debug\net9.0\XmlFormattingAssignment.AssemblyInfoInputs.cache
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignment\obj\Debug\net9.0\XmlFormattingAssignment.AssemblyInfo.cs
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignment\obj\Debug\net9.0\XmlFormattingAssignment.csproj.CoreCompileInputs.cache
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignment\obj\Debug\net9.0\XmlFormattingAssignment.sourcelink.json
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignment\obj\Debug\net9.0\XmlFormattingAssignment.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignment\obj\Debug\net9.0\refint\XmlFormattingAssignment.dll
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignment\obj\Debug\net9.0\XmlFormattingAssignment.pdb
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignment\obj\Debug\net9.0\XmlFormattingAssignment.genruntimeconfig.cache
+D:\aspnet assignments\Assignment 1\aspnet-b11-Fahim\src\XmlFormattingAssignment\XmlFormattingAssignment\obj\Debug\net9.0\ref\XmlFormattingAssignment.dll

@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\aspnet assignments\\Assignment 1\\aspnet-b11-Fahim\\src\\XmlFormattingAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEC249C-1AC6-46F0-BFD1-453311B48BA0}|XmlFormattingAssignment\\XmlFormattingAssignment.csproj|d:\\aspnet assignments\\assignment 1\\aspnet-b11-fahim\\src\\xmlformattingassignment\\xmlformattingassignment\\xmlformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FEC249C-1AC6-46F0-BFD1-453311B48BA0}|XmlFormattingAssignment\\XmlFormattingAssignment.csproj|solutionrelative:xmlformattingassignment\\xmlformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490D283A-0F90-4762-A0D2-1D3FC83B8559}|XmlFormattingAssignmentTest\\XmlFormattingAssignmentTest.csproj|d:\\aspnet assignments\\assignment 1\\aspnet-b11-fahim\\src\\xmlformattingassignment\\xmlformattingassignmenttest\\testxmlformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490D283A-0F90-4762-A0D2-1D3FC83B8559}|XmlFormattingAssignmentTest\\XmlFormattingAssignmentTest.csproj|solutionrelative:xmlformattingassignmenttest\\testxmlformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEC249C-1AC6-46F0-BFD1-453311B48BA0}|XmlFormattingAssignment\\XmlFormattingAssignment.csproj|d:\\aspnet assignments\\assignment 1\\aspnet-b11-fahim\\src\\xmlformattingassignment\\xmlformattingassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FEC249C-1AC6-46F0-BFD1-453311B48BA0}|XmlFormattingAssignment\\XmlFormattingAssignment.csproj|solutionrelative:xmlformattingassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\aspnet assignments\\Assignment 1\\aspnet-b11-Fahim\\src\\XmlFormattingAssignment\\XmlFormattingAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "XmlFormattingAssignment\\Program.cs",
+              "ToolTip": "D:\\aspnet assignments\\Assignment 1\\aspnet-b11-Fahim\\src\\XmlFormattingAssignment\\XmlFormattingAssignment\\Program.cs",
+              "RelativeToolTip": "XmlFormattingAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:51:53.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestXmlFormatter.cs",
+              "DocumentMoniker": "D:\\aspnet assignments\\Assignment 1\\aspnet-b11-Fahim\\src\\XmlFormattingAssignment\\XmlFormattingAssignmentTest\\TestXmlFormatter.cs",
+              "RelativeDocumentMoniker": "XmlFormattingAssignmentTest\\TestXmlFormatter.cs",
+              "ToolTip": "D:\\aspnet assignments\\Assignment 1\\aspnet-b11-Fahim\\src\\XmlFormattingAssignment\\XmlFormattingAssignmentTest\\TestXmlFormatter.cs",
+              "RelativeToolTip": "XmlFormattingAssignmentTest\\TestXmlFormatter.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAgwG4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:16:31.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XmlFormatter.cs",
+              "DocumentMoniker": "D:\\aspnet assignments\\Assignment 1\\aspnet-b11-Fahim\\src\\XmlFormattingAssignment\\XmlFormattingAssignment\\XmlFormatter.cs",
+              "RelativeDocumentMoniker": "XmlFormattingAssignment\\XmlFormatter.cs",
+              "ToolTip": "D:\\aspnet assignments\\Assignment 1\\aspnet-b11-Fahim\\src\\XmlFormattingAssignment\\XmlFormattingAssignment\\XmlFormatter.cs",
+              "RelativeToolTip": "XmlFormattingAssignment\\XmlFormatter.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwDAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:15:59.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
